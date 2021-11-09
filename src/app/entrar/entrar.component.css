@@ -1,0 +1,9 @@
+#img-br{
+    background-image: url('https://services.meteored.com/img/article/amazonia-mais-do-que-uma-floresta-uma-reguladora-do-clima-16851-1_768.jpg');
+
+    min-height: 695px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

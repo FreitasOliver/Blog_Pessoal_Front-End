@@ -1,0 +1,9 @@
+#img-br{
+    background-image: url('https://jojonoticias.com.br/wp-content/uploads/2021/04/dia-do-indio-1.jpg');
+
+    min-height: 695px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
